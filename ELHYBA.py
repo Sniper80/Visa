@@ -4,7 +4,7 @@ import telebot,time
 from telebot import types
 from gatet import Tele
 import os
-token = Mody.ELHYPA
+token = 7330077943:AAExtQKQwUU7qFrA5_nnKvqhkv1lpPgJBzk
 bot=telebot.TeleBot(token,parse_mode="HTML")
 subscriber = Mody.Owner
 @bot.message_handler(commands=["start"])
