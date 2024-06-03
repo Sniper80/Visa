@@ -1,7 +1,7 @@
 {
-	"name": "اللهم صلي علي سيدنا محمد و علي اله و صحبه و سلم",
-	"description": "بوت فحص فيزات بوابة برينتري",
-	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"name": "SNIPER",
+	"description": "ViSa Checker",
+	"logo": "https://telegra.ph/file/0c5f81480688f544c734d.jpg",
 	"keywords": [
 		"telegram",
 		"bot",
@@ -10,11 +10,11 @@
 	],
     "env": {
         "ELHYBA": {
-            "description": "Your Telegram Bot Token from @BotFather",
+            "description": "7330077943:AAExtQKQwUU7qFrA5_nnKvqhkv1lpPgJBzk",
             "value": ""
         },
         "Owner": {
-            "description": "Your ID On Telegram",
+            "description": "6300836232",
             "value": ""
 	   }
 	},
